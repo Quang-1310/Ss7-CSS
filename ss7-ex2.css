@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    background-color: #f0eef3;
+}
+
+.table{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+}
+
+.td{
+    background-color: white;
+    border: solid;
+    border-radius: 5px;
+    border-color: #c1bcd1;
+    text-align: center;
+    line-height: 25px;
+    width: 300px;
+    height: 200px;
+}
+
+.title{
+    display: block;
+    font-size: 20px;
+    font-weight: 600;
+    color: #bc2229;
+    padding-bottom: 20px;
+}
